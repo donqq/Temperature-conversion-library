@@ -5,7 +5,7 @@ The library is developed in VB.NET, and thus can be used across all .NET languag
 
 Main function takes two parameters, and return a value. 
 
-Paramters
+Parameters
 ----------
 * _value : the value need to be converted
 * _symbol : the identifier (either CtoF or FtoC) 
