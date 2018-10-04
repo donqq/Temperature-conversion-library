@@ -1,5 +1,5 @@
-<b>Temperature Conversion Library in VB.NET</b>
-
+Temperature Conversion Library in VB.NET
+----------
 This library is for converting a value in celsius to Fahrenheit and vice versa. 
 The library is developed in VB.NET, and thus can be used across all .NET languages. 
 
