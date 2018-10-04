@@ -13,3 +13,11 @@ Parameters
 Returned value
 ---------
 * a floating point value
+
+How to Compile and Use
+---------
+
+1. Download, and install visual studio 2015
+2. open the source code with .sln file
+3. compile/build the library file
+4. Use the binary library file in your application 
